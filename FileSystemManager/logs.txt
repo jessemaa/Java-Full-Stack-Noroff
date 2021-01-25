@@ -1,0 +1,9 @@
+
+25/01/2021 18:44: Dracula.txt
+The function took 4ms to execute
+25/01/2021 18:44: The size of the file: 883160 bytes
+The function took 1ms to execute
+25/01/2021 18:44: Lines counted: 15973
+The function took 20ms to execute
+25/01/2021 18:44: The given word "rat" is present for 2 times in the file.
+The function took 3412ms to execute
