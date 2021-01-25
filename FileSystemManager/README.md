@@ -32,3 +32,7 @@ The command which compiled javas to classes
 The commands which created .jar file
 
 ![Image](src/screenshots/jar_command.png)
+
+The command showing that .jar is working
+
+![Image](src/screenshots/jar_working_command.png)
